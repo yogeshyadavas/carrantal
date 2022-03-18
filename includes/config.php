@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
 define('DB_HOST','127.0.0.1');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','carrental');
+define('DB_USER','yogesh');
+define('DB_PASS','Yogi#4232');
+define('DB_NAME','testcarpro');
 // Establish database connection.
 try
 {
