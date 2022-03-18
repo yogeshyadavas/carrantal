@@ -3,7 +3,7 @@
 define('DB_HOST','127.0.0.1');
 define('DB_USER','yogesh');
 define('DB_PASS','Yogi#4232');
-define('DB_NAME','testcarpro');
+define('DB_NAME','carrental');
 // Establish database connection.
 try
 {
